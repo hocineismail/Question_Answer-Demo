@@ -1,8 +1,8 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://hocineismail.github.io/Question-Answer-demo",
+  "private": false,
+  "homepage": "https://hocineismail.github.io/Question-Answer-demo",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
